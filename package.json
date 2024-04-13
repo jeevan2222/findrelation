@@ -1,0 +1,22 @@
+{
+  "name": "findrelation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeevan2222/findrelation.git"
+  },
+  "keywords": [
+    "flames"
+  ],
+  "author": "jeevank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeevan2222/findrelation/issues"
+  },
+  "homepage": "https://github.com/jeevan2222/findrelation#readme"
+}
